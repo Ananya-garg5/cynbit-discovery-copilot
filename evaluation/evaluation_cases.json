@@ -1,0 +1,106 @@
+[
+  {
+    "id": "case_01_healthcare_document_automation",
+    "category": "business_sales_lead",
+    "enquiry": "We are a healthcare startup processing hundreds of patient and insurance documents manually every week. We want to automate document processing and extract important information before sending it into our existing software system.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "LLM Automation",
+      "AI Stack Integration"
+    ],
+    "expected_case_studies": [
+      "WizHealth",
+      "CarePlus Health",
+      "Pragya Healths"
+    ]
+  },
+  {
+    "id": "case_02_legacy_erp_migration",
+    "category": "business_sales_lead",
+    "enquiry": "Our company is still using an old ERP system that has become difficult to maintain. We want to modernize the legacy system and migrate the existing data to a newer platform without disrupting our operations.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "Legacy Migration"
+    ],
+    "expected_case_studies": [
+      "Sofiasa"
+    ]
+  },
+  {
+    "id": "case_03_retail_seo",
+    "category": "business_sales_lead",
+    "enquiry": "We run an online retail business and want to improve our search engine visibility. We are particularly interested in technical SEO and increasing organic traffic in different local markets.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "Technical SEO"
+    ],
+    "expected_case_studies": [
+      "TrendMart"
+    ]
+  },
+  {
+    "id": "case_04_customer_review_automation",
+    "category": "business_sales_lead",
+    "enquiry": "We receive a large number of customer reviews and feedback messages. We want an automated system that can collect, analyze and manage customer reviews so our team does not have to process everything manually.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "CRM Automation"
+    ],
+    "expected_products": [
+      "Revio"
+    ]
+  },
+  {
+    "id": "case_05_cloud_migration",
+    "category": "business_sales_lead",
+    "enquiry": "We currently run our application on older infrastructure and want to move our systems and data to a modern cloud environment. We need help designing and implementing the cloud infrastructure and migration.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "Cloud Infrastructure"
+    ],
+    "expected_case_studies": [
+      "CarePlus Health"
+    ]
+  },
+  {
+    "id": "case_06_crm_workflow_automation",
+    "category": "business_sales_lead",
+    "enquiry": "Our sales team spends a lot of time manually updating customer information, following up with leads and maintaining CRM records. We want to automate these repetitive CRM workflows.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "CRM Automation"
+    ]
+  },
+  {
+    "id": "case_07_internship_enquiry",
+    "category": "non_sales",
+    "enquiry": "Hello, I am a final-year computer science student looking for an AI/ML internship. I would like to know whether Cynbit currently has any internship opportunities for students.",
+    "expected_enquiry_type": "Non-Sales Enquiry",
+    "expected_services": []
+  },
+  {
+    "id": "case_08_vague_business_enquiry",
+    "category": "business_sales_lead",
+    "enquiry": "Hi, we are a growing company and need help with technology and automation. Please let us know what Cynbit can do for us.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": []
+  },
+  {
+    "id": "case_09_unrelated_requirement",
+    "category": "insufficient_match",
+    "enquiry": "We are looking for a company to provide office furniture, chairs and desks for our new corporate office. Please send us your product catalogue and pricing.",
+    "expected_enquiry_type": "Not Applicable",
+    "expected_services": [],
+    "expected_products": [],
+    "expected_case_studies": []
+  },
+  {
+    "id": "case_10_ai_agent_automation",
+    "category": "business_sales_lead",
+    "enquiry": "We want to build an AI agent that can handle repetitive business tasks, use tools to perform actions and automate parts of our existing business workflows with human approval when required.",
+    "expected_enquiry_type": "Business Sales Lead",
+    "expected_services": [
+      "Autonomous AI Agents"
+    ]
+  }
+]

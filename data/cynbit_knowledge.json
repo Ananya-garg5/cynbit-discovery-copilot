@@ -1,0 +1,571 @@
+[
+  {
+    "id": "svc-autonomous-agents",
+    "type": "service",
+    "title": "Autonomous AI Agents",
+    "text": "Cynbit builds autonomous AI agents and cognitive automation systems. Its autonomous agents are described as smart AI assistants that manage leads and coordination.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "AI agent",
+      "autonomous agent",
+      "AI assistant",
+      "lead management",
+      "coordination",
+      "business automation",
+      "appointments",
+      "reminders",
+      "scheduling",
+      "notifications",
+      "follow-up",
+      "routine tasks"
+    ]
+  },
+  {
+    "id": "svc-llm-automation",
+    "type": "service",
+    "title": "LLM Automation",
+    "text": "Cynbit provides LLM automation for automating manual data entry and document handling with AI.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "LLM",
+      "document processing",
+      "document extraction",
+      "data entry",
+      "manual data",
+      "document automation"
+    ]
+  },
+  {
+    "id": "svc-ai-voice-agents",
+    "type": "service",
+    "title": "AI Voice Agents",
+    "text": "Cynbit provides advanced voice-driven AI agents for human-machine communication.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "voice AI",
+      "voice agent",
+      "AI calling",
+      "voice automation",
+      "phone assistant"
+    ]
+  },
+  {
+    "id": "svc-ai-stack-integration",
+    "type": "service",
+    "title": "AI Stack Integration",
+    "text": "Cynbit provides AI stack integration by embedding AI capabilities into existing SaaS stacks.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "AI integration",
+      "SaaS integration",
+      "existing software",
+      "AI API integration",
+      "software integration"
+    ]
+  },
+  {
+    "id": "svc-full-stack-development",
+    "type": "service",
+    "title": "Full-Stack Development",
+    "text": "Cynbit develops scalable web and mobile platforms using modern software engineering practices.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "website",
+      "web application",
+      "mobile application",
+      "full stack",
+      "software development",
+      "platform development"
+    ]
+  },
+  {
+    "id": "svc-backend-systems",
+    "type": "service",
+    "title": "Backend Systems",
+    "text": "Cynbit provides secure backend system design optimized for 99.9% uptime.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "backend",
+      "API",
+      "server",
+      "backend architecture",
+      "scalable backend"
+    ]
+  },
+  {
+    "id": "svc-cloud-infrastructure",
+    "type": "service",
+    "title": "Cloud Infrastructure",
+    "text": "Cynbit provides cloud infrastructure deployment across AWS and Azure with zero-trust security.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "AWS",
+      "Azure",
+      "cloud",
+      "cloud migration",
+      "deployment",
+      "infrastructure"
+    ]
+  },
+  {
+    "id": "svc-legacy-migration",
+    "type": "service",
+    "title": "Legacy Migration",
+    "text": "Cynbit provides legacy migration services focused on modernizing monolithic systems into agile, distributed systems.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "legacy system",
+      "legacy software",
+      "monolith",
+      "migration",
+      "modernization",
+      "distributed system"
+    ]
+  },
+  {
+    "id": "svc-performance-ads",
+    "type": "service",
+    "title": "Performance Ads",
+    "text": "Cynbit provides strategic Google and Meta advertising focused on ROI and lead generation.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "Google Ads",
+      "Meta Ads",
+      "advertising",
+      "paid ads",
+      "lead generation",
+      "performance marketing"
+    ]
+  },
+  {
+    "id": "svc-technical-seo",
+    "type": "service",
+    "title": "Technical SEO",
+    "text": "Cynbit provides technical SEO focused on infrastructure optimization to improve search performance.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "SEO",
+      "technical SEO",
+      "search ranking",
+      "website SEO",
+      "search optimization"
+    ]
+  },
+  {
+    "id": "svc-crm-automation",
+    "type": "service",
+    "title": "CRM Automation",
+    "text": "Cynbit provides CRM automation engines designed to nurture leads into loyal advocates automatically.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "CRM",
+      "lead nurturing",
+      "customer relationship",
+      "sales automation",
+      "follow-up automation"
+    ]
+  },
+  {
+    "id": "svc-funnel-optimization",
+    "type": "service",
+    "title": "Funnel Optimization",
+    "text": "Cynbit provides high-conversion landing page and funnel optimization driven by user behavior.",
+    "source_url": "https://www.cynbit.in/services",
+    "source_name": "Cynbit Services",
+    "retrieval_hints": [
+      "landing page",
+      "conversion",
+      "sales funnel",
+      "funnel",
+      "conversion optimization"
+    ]
+  },
+  {
+    "id": "prod-cynbit-studio",
+    "type": "product",
+    "title": "Cynbit Studio",
+    "text": "Cynbit Studio is an AI-powered career growth platform for students and developers. It includes placement assessment, adaptive coding paths, AI coding missions, AI code evaluation, AI mentor support, mock interviews, an AI resume engine, job matcher analysis, legacy profiles, XP and certificates.",
+    "source_url": "https://www.cynbit.in/products",
+    "source_name": "Cynbit Products",
+    "retrieval_hints": [
+      "career platform",
+      "coding platform",
+      "students",
+      "developers",
+      "placement preparation",
+      "mock interview",
+      "resume",
+      "job matching",
+      "coding assessment"
+    ]
+  },
+  {
+    "id": "prod-tenantease",
+    "type": "product",
+    "title": "TenantEase",
+    "text": "TenantEase is a smart property and tenant management platform. It centralizes property management, tenant management and rent collection. It includes rent and payment tracking, automated reminders, payment history, unit tracking, tenant profiles and a business dashboard.",
+    "source_url": "https://www.cynbit.in/products",
+    "source_name": "Cynbit Products",
+    "retrieval_hints": [
+      "property management",
+      "tenant management",
+      "rent",
+      "rent collection",
+      "property dashboard",
+      "tenant profiles",
+      "payment reminders",
+      "vacancy"
+    ]
+  },
+  {
+    "id": "prod-revio",
+    "type": "product",
+    "title": "Revio",
+    "text": "Revio is an AI-first reputation and review management system. It automates customer feedback management, synchronizes reviews across platforms, generates AI responses, provides sentiment intelligence, detects crises and supports centralized multi-location control.",
+    "source_url": "https://www.cynbit.in/products",
+    "source_name": "Cynbit Products",
+    "retrieval_hints": [
+      "reviews",
+      "reputation management",
+      "customer feedback",
+      "sentiment analysis",
+      "review responses",
+      "Google reviews",
+      "crisis detection",
+      "multi-location"
+    ]
+  },
+  {
+    "id": "program-bitelevate",
+    "type": "program",
+    "title": "BitElevate",
+    "text": "BitElevate is Cynbit's training and technical development initiative focused on helping students build industry-ready software skills. The program includes technical learning, industry roadmaps and certification.",
+    "source_url": "https://www.cynbit.in/bitelevate",
+    "source_name": "Cynbit BitElevate",
+    "retrieval_hints": [
+      "student training",
+      "internship",
+      "software training",
+      "technical learning",
+      "career readiness",
+      "students",
+      "certification"
+    ]
+  },
+  {
+    "id": "company-cynbit",
+    "type": "company",
+    "title": "Cynbit Technologies",
+    "text": "Cynbit Technologies is an AI automation and software solutions company based in Jaipur, Rajasthan. Its public positioning includes AI automation, autonomous AI agents, custom software development, scalable business platforms, cloud systems and digital marketing and SEO.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "Cynbit",
+      "AI company",
+      "AI automation company",
+      "software company",
+      "Jaipur",
+      "custom software"
+    ]
+  },
+  {
+    "id": "process-discovery",
+    "type": "process",
+    "title": "Discovery and Audit",
+    "text": "Cynbit's public process begins with Discovery and audit. The company says it studies existing workflows and technical debt to identify invisible friction points.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "discovery",
+      "audit",
+      "workflow analysis",
+      "technical debt",
+      "friction points",
+      "requirements"
+    ]
+  },
+  {
+    "id": "process-strategy",
+    "type": "process",
+    "title": "Strategy and Blueprinting",
+    "text": "Cynbit's public process includes Strategy and blueprinting, described as creating a custom architectural roadmap covering logic, AI integration and scalability modules.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "strategy",
+      "blueprint",
+      "architecture",
+      "roadmap",
+      "AI integration",
+      "scalability"
+    ]
+  },
+  {
+    "id": "process-design",
+    "type": "process",
+    "title": "High-Fidelity Design",
+    "text": "Cynbit's public process includes high-fidelity design focused on user-centric systems that turn complex technical logic into human experiences.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "UI",
+      "UX",
+      "design",
+      "user experience",
+      "product design"
+    ]
+  },
+  {
+    "id": "process-implementation",
+    "type": "process",
+    "title": "Technical Implementation",
+    "text": "Cynbit's public process includes technical implementation involving robust technical engines and resilient codebases.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "implementation",
+      "development",
+      "engineering",
+      "deployment",
+      "codebase"
+    ]
+  },
+  {
+    "id": "process-quality",
+    "type": "process",
+    "title": "Quality and Integrity Check",
+    "text": "Cynbit's public process includes quality and integrity checks involving stress testing and security audits before production readiness.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "testing",
+      "security",
+      "audit",
+      "quality assurance",
+      "stress testing"
+    ]
+  },
+  {
+    "id": "process-deployment",
+    "type": "process",
+    "title": "Deployment and Evolution",
+    "text": "Cynbit's public process concludes with deployment and evolution, followed by optimization and proactive system scaling.",
+    "source_url": "https://www.cynbit.in/",
+    "source_name": "Cynbit Homepage",
+    "retrieval_hints": [
+      "deployment",
+      "optimization",
+      "scaling",
+      "post-launch",
+      "maintenance"
+    ]
+  },
+  {
+    "id": "cs-wizhealth",
+    "type": "case_study",
+    "title": "WizHealth — AI Diagnostic Triage",
+    "text": "Cynbit's WizHealth case study is about AI diagnostic triage for improving medical efficiency. The case study describes improved triage efficiency and shorter urgent turnaround.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "healthcare",
+      "medical",
+      "diagnostic",
+      "triage",
+      "health AI"
+    ]
+  },
+  {
+    "id": "cs-pragya-healths",
+    "type": "case_study",
+    "title": "Pragya Healths — IoT Remote Patient Monitoring",
+    "text": "Cynbit's Pragya Healths case study is about IoT-based remote patient monitoring for rural health.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "healthcare",
+      "patient monitoring",
+      "IoT",
+      "remote monitoring",
+      "rural health"
+    ]
+  },
+  {
+    "id": "cs-wild-basil",
+    "type": "case_study",
+    "title": "Wild basil — Blockchain-Lite Food Transparency",
+    "text": "Cynbit's Wild basil case study is about blockchain-lite transparency for sustainable food.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "food",
+      "sustainability",
+      "blockchain",
+      "transparency",
+      "traceability"
+    ]
+  },
+  {
+    "id": "cs-sofiasa",
+    "type": "case_study",
+    "title": "Sofiasa — Legacy ERP Modernization",
+    "text": "Cynbit's Sofiasa case study is about modernizing a legacy ERP system for the digital era.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "ERP",
+      "legacy",
+      "migration",
+      "modernization",
+      "enterprise software"
+    ]
+  },
+  {
+    "id": "cs-econtentprep",
+    "type": "case_study",
+    "title": "EContentPrep — AI-Driven Adaptive Learning",
+    "text": "Cynbit's EContentPrep case study is about AI-driven adaptive learning pathways for EdTech.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "education",
+      "EdTech",
+      "adaptive learning",
+      "AI learning",
+      "students"
+    ]
+  },
+  {
+    "id": "cs-cloudy-tales",
+    "type": "case_study",
+    "title": "Cloudy Tales — Real-Time Collaboration",
+    "text": "Cynbit's Cloudy Tales case study is about a real-time collaborative engine for digital storytellers.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "collaboration",
+      "real-time",
+      "content platform",
+      "storytelling",
+      "web application"
+    ]
+  },
+  {
+    "id": "cs-urban-wardrobe",
+    "type": "case_study",
+    "title": "Urban Wardrobe — AR Virtual Try-On",
+    "text": "Cynbit's Urban Wardrobe case study is about AR virtual try-on for a fashion experience.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "fashion",
+      "AR",
+      "augmented reality",
+      "virtual try-on",
+      "ecommerce"
+    ]
+  },
+  {
+    "id": "cs-evento",
+    "type": "case_study",
+    "title": "Evento — Real-Time Ticketing",
+    "text": "Cynbit's Evento case study is about scaling real-time ticketing for major entertainment.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "ticketing",
+      "events",
+      "real-time",
+      "high traffic",
+      "scalability"
+    ]
+  },
+  {
+    "id": "cs-marketing-addict",
+    "type": "case_study",
+    "title": "Marketing Addict — AI Campaign Optimization",
+    "text": "Cynbit's Marketing Addict case study is about AI-powered campaign optimization for global marketing.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "marketing",
+      "campaign",
+      "AI marketing",
+      "advertising",
+      "ROI"
+    ]
+  },
+  {
+    "id": "cs-elitevogue",
+    "type": "case_study",
+    "title": "EliteVogue — Headless Commerce",
+    "text": "Cynbit's EliteVogue case study is about next-generation headless commerce for global fashion.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "fashion",
+      "commerce",
+      "ecommerce",
+      "headless commerce",
+      "retail"
+    ]
+  },
+  {
+    "id": "cs-trendmart",
+    "type": "case_study",
+    "title": "TrendMart — Hyperlocal SEO",
+    "text": "Cynbit's TrendMart case study is about a hyper-local SEO strategy that produced organic growth for a retail chain.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "SEO",
+      "local SEO",
+      "retail",
+      "organic traffic",
+      "search"
+    ]
+  },
+  {
+    "id": "cs-careplus",
+    "type": "case_study",
+    "title": "CarePlus Health — Healthcare Cloud Migration",
+    "text": "Cynbit's CarePlus Health case study is about migrating critical health data to the cloud with zero downtime.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "healthcare",
+      "cloud",
+      "migration",
+      "health data",
+      "security",
+      "zero downtime"
+    ]
+  },
+  {
+    "id": "cs-globalpay",
+    "type": "case_study",
+    "title": "GlobalPay — Cross-Border Payments",
+    "text": "Cynbit's GlobalPay case study is about cross-border payments for high-scale usage.",
+    "source_url": "https://www.cynbit.in/case-studies",
+    "source_name": "Cynbit Case Studies",
+    "retrieval_hints": [
+      "payments",
+      "fintech",
+      "cross-border",
+      "transactions",
+      "high scale",
+      "compliance"
+    ]
+  }
+]
